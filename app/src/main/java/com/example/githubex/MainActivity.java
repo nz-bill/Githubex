@@ -11,6 +11,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int x = 511;
+
+        int y = 511;
+
+
+        int x = 75;
+
     }
 }
