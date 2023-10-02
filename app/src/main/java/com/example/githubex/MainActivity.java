@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int y = 511;
 
         //lite grejjer
+        //bla bla
 
         int x = 75;
 
